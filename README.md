@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @EduardoVelRam
 - 👀 I’m interested in software development and data science.
-- 🌱 I’m currently learning how to use correctly github tu upload some of my currently and future proyects.
-- 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me, email:velramedu@gmail.com
 
 <!---
